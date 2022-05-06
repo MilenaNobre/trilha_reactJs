@@ -4,7 +4,7 @@
 
 ### Proveitos do curso
    <ul> <strong> O QUE IREI APRENDER </strong>
-        <li> Fundamentos de React</li>
+        <li> Fundamentos de React :white_check_mark: </li>
         <li> Navegação com React Router</li>
         <li> React Hooks </li>
         <li> Gerenciamento de estado com Redux</li>
