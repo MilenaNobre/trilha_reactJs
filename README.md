@@ -11,7 +11,7 @@
         <li> Deploy Heroku </li>
 </ul>
 <ul> <strong> PROJETOS </strong>
-        <li> Projeto #01 - <a href="https://github.com/MilenaNobre/projeto_react_01"> Calculadora Simples </a> </li>
+        <li> Projeto #01 - <a href="https://github.com/MilenaNobre/projeto_react_01"> Calculadora Simples </a> :white_check_mark:</li>
         <li> Projeto #02 - Sistema de cadastro - Integração com Firestore </li>
         <li> Projeto #03 - Todo App - Backend  </li>
         <li> Projeto #04 - Todo App - Frontend </li>
