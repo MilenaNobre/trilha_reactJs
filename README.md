@@ -4,14 +4,14 @@
 
 ### Proveitos do curso
    <ul> <strong> O QUE IREI APRENDER </strong>
-        <li> Fundamentos de React</li>
+        <li> Fundamentos de React :white_check_mark: </li>
         <li> Navegação com React Router</li>
         <li> React Hooks </li>
         <li> Gerenciamento de estado com Redux</li>
         <li> Deploy Heroku </li>
 </ul>
 <ul> <strong> PROJETOS </strong>
-        <li> Projeto #01 - Calculadora Simples </li>
+        <li> Projeto #01 - <a href="https://github.com/MilenaNobre/projeto_react_01"> Calculadora Simples </a> :white_check_mark:</li>
         <li> Projeto #02 - Sistema de cadastro - Integração com Firestore </li>
         <li> Projeto #03 - Todo App - Backend  </li>
         <li> Projeto #04 - Todo App - Frontend </li>
