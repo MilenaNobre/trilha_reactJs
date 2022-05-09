@@ -1,3 +1,6 @@
+hooks/node_modules
+hooks/package-lock.json
+
 navegacao/node_modules
 navegacao/package-lock.json
 
