@@ -7,6 +7,7 @@ export default props => {
     return (
         <div className="Input">
             <input value={valor} onChange={ e => setValor(e.target.value)}/>
+            <p> { valor } </p>
         </div>
     )
 }
