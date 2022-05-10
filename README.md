@@ -6,7 +6,7 @@
    <ul> <strong> O QUE IREI APRENDER </strong>
         <li> Fundamentos de React :white_check_mark: </li>
         <li> Navegação com React Router :white_check_mark: </li>
-        <li> React Hooks </li>
+        <li> React Hooks :white_check_mark:</li>
         <li> Gerenciamento de estado com Redux</li>
         <li> Deploy Heroku </li>
 </ul>
